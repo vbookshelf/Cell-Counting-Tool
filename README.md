@@ -1,4 +1,4 @@
-## Cell-Counting-Tool
+## V_1.0 - Cell-Counting-Tool
 Ai powered web app to automatically count cells on a cell mask microscopy image - Tensorflow.js
 <br>
 
