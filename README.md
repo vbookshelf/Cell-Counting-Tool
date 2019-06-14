@@ -1,8 +1,10 @@
 ## V_1.0 - Cell-Counting-Tool
-Ai powered web app to automatically count cells on a cell mask microscopy image - Tensorflow.js
-<br>
 
 Live Web App: http://cellcount.test.woza.work/
+
+<br>
+
+<img src="http://cellcount.test.woza.work/assets/cellcount_sample.png" width="350"></img>
 
 <br>
 
